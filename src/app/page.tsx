@@ -138,7 +138,7 @@ export default function Home() {
               id: "2",
               name: "Sarah Johnson",
               role: "Marketing Director",
-              testimonial: "Best car buying experience I've ever had. Transparent pricing, no pressure tactics, and they delivered exactly what they promised.",
+              testimonial: "Best car buying experience I have ever had. Transparent pricing, no pressure tactics, and they delivered exactly what they promised.",
               imageSrc: "https://images.pexels.com/photos/7648239/pexels-photo-7648239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Sarah Johnson portrait"
             },
